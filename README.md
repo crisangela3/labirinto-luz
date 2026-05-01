@@ -1,3 +1,35 @@
+# 🕯️ Labirinto de Luz - Mobile First
+
+Uma experiência de labirinto totalmente otimizada para todas as superfícies de toque.
+
+## 🚀 Dinâmicas de Movimento
+* **Deslizar (Swipe)**: Arraste o dedo em qualquer lugar da tela para mover a luz.
+* **Toque Direto**: Toque em um quadrado adjacente para se mover instantaneamente.
+* **Teclado**: Use as setas (com prevenção de scroll da página).
+
+## 🛠️ Tecnologias
+* Next.js, Framer Motion, Handlers de Touch nativos do React.
+# 🕯️ Labirinto de Luz - Versão Estável
+
+Projeto totalmente funcional com suporte híbrido de entrada.
+
+## 🕹️ Controles Revisados
+* **Início**: Aperte ENTER ou clique no botão INICIAR.
+* **Teclado**: Setas direcionais agora movem o personagem corretamente sem rolar a página.
+* **Touch/Mobile**: Suporte a Swipe (deslizar) e Clique Direto nos caminhos.
+
+## 🛠️ Correções Realizadas e Ajustadas.
+* Resolvido conflito de renderização que travava o movimento.
+* Implementado estado de pré-jogo para capturar o foco do teclado.
+
+"Agora sim! 🛠️ Corrigimos os bugs do Labirinto de Luz e implementamos o sistema de 'Press Enter to Start'. 
+🕯️Um excelente aprendizado sobre como gerenciar o foco do teclado e eventos de toque simultaneamente no React. 
+Testado e aprovado! 🚀 #BugFix #WebDev #GameLogic #NextJS #Acessibilidade"
+
+
+=====================================================================================================================================================================================================
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
